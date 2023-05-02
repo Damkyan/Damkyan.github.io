@@ -17,16 +17,22 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2010-2012: Laboratory Technician
+  * University of Lausanne
+  * Duties included: Peptides Purification
+  * Supervisor: Prof. Catherine Servis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Feb-2015 to May-2015: Laboratory Engineer
+  * University of Lausanne
+  * Duties included: Peptides Purification
+  * Supervisor: Prof. Catherine Servis
+
+* From Sept-2022 : Scientific Collaborator
+  * EPFL
+  * Duties included: Wet Lab work, Bioinfo (kinda)
+  * Supervisor: Prof. Paolo De Los Rios
+
+<!---
 Skills
 ======
 * Skill 1
@@ -35,7 +41,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
+-->
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -54,6 +60,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+
