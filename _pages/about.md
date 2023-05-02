@@ -10,7 +10,7 @@ redirect_from:
 
 This is Dr. Mathieu E. Rebeaud home on the web!
 
-About me
+Biography - Current Work
 ======
 
 Lorem Ipsum
