@@ -13,4 +13,4 @@ This is Dr. Mathieu E. Rebeaud home on the web!
 Biography - Current Work
 ======
 
-Lorem Ipsum
+I am a Scientific Collaborator in the Laboratory of Statistical Biophysics of Prof. De Los Rios in EPFL.
