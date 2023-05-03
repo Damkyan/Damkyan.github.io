@@ -1,5 +1,3 @@
-## **Publications**
-
 You can find my articles on my [Google Scholar](https://scholar.google.ch/citations?user=yEQqVRIAAAAJ) profile.
  
 <!---
