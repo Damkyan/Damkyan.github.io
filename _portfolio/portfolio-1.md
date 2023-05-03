@@ -1,6 +1,6 @@
 ---
 title: "Gilgamesh"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Gilg.jpg'>"
+excerpt: "My cat Gilgamesh<br/><img src='/images/Gilg.jpg'>"
 collection: portfolio
 ---
 
