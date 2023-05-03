@@ -1,5 +1,7 @@
-{% if author.googlescholar %} You can also find my articles on my Google Scholar profile. {% endif %}
+## **Publications**
 
+You can find my articles on my [Google Scholar](https://scholar.google.ch/citations?user=yEQqVRIAAAAJ) profile.
+ 
 <!---
 
 title: "Paper Title Number 3"
