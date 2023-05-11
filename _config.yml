@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Mathieu E. Rebeaud / Academic Profile"
+title                    : "Dr. Mathieu E. Rebeaud"
 title_separator          : "-"
 name                     : &name "Dr. Mathieu E. Rebeaud"
 description              : &description "Scientist at LBS in EPFL"
