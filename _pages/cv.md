@@ -31,6 +31,11 @@ Work experience
   * EPFL
   * Duties included: Wet Lab work, Bioinfo (kinda)
   * Supervisor: Prof. Paolo De Los Rios
+ 
+Awards
+======
+* FBM Award - Special Award For Outstanding Dedication In Practical Teaching during a pandemic, 2021
+* FBM Faculty Award - In recognition of outstanding doctoral thesis work, 2023
 
 <!---
 Skills
