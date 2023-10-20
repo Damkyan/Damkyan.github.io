@@ -48,6 +48,7 @@ Skills
 * Skill 3
 -->
 
+<!---
 Publications
 ======
 
@@ -78,7 +79,7 @@ Peiffer-Smadja, N., **Rebeaud**, M. E., Guihur, A., Mahamat-Saleh, Y., & Fiolet,
 **Rebeaud**, M. E., & Zores, F. (2020). SARS-CoV-2 and the Use of Chloroquine as an Antiviral Treatment. Frontiers in Medicine, 7, 184. 
 
 Zores, F., & **Rebeaud**, M. E. (2020). COVID and the renin-angiotensin system: are hypertension or its treatments deleterious? Frontiers in cardiovascular medicine, 7, 71.
-
+-->
 <!--- 
 Talks - Conferences
 ======
